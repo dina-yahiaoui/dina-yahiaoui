@@ -1,10 +1,10 @@
 ## 👋 Bienvenue sur mon profil GitHub !
 <img
   align="center"
-  src="https://cdn.pixabay.com/photo/2022/04/10/09/02/cats-7122943_1280.png"
+  src="https://cdn.pixabay.com/photo/2022/04/10/09/02/cats-7122943_1280.png" width="1000" height="400"
 />
 ## 🙋‍♀️ À propos de moi
-Bonjour, je suis Dina YAHIAOUI, une débutante passionnée par le développement et l'apprentissage des technologies. Je suis actuellement en train de développer mes compétences en  HTML, CSS, Python.
+Bonjour, je suis **Dina YAHIAOUI**, une débutante passionnée par le développement et l'apprentissage des technologies. Je suis actuellement en train de développer mes compétences en  **HTML, CSS, Python.**
 
 ---
 
@@ -16,13 +16,13 @@ Bonjour, je suis Dina YAHIAOUI, une débutante passionnée par le développement
 ## 📂 Mes Projets
 Voici quelques petits projets que j’ai réalisés en apprenant :
 
-1. **[tic tac to game]**
+1. **tic-tac-to Game**
    - Description : Un petit projet pour pratiquer **[Python]**.
-   - [Lien vers le projet](#)
+   - [[Lien vers le proje](https://github.com/ouda-sadek/Tic-Tac-Toe)t](#)
 
-2. **[Un Site Web]**
+2. **Un Site Web**
    - Description : Mon premier essai avec **[HTML,CSS]**.
-   - [Lien vers le projet](#)
+   - [[Lien vers le projet](https://github.com/ouda-sadek/Fansite)](#)
 
 ---
 
