@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi Im Dina 👋
+<img
+  align="center"
+  src="https://cdn.pixabay.com/photo/2022/04/10/09/02/cats-7122943_1280.png"
+/>
 
 <!--
 **dina-yahiaoui/dina-yahiaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
