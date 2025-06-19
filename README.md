@@ -78,8 +78,6 @@ Je cherche actuellement une **alternance de 2 ans** (rythme 4 semaines entrepris
 
 ## 🧰 Compétences
 
-## 🧰 Compétences
-
 ```txt
 🧠 Langages : Python, SQL (MySQL), R, HTML/CSS
 📊 Data : Pandas, NumPy, Power BI, R Shiny, Streamlit
@@ -87,10 +85,21 @@ Je cherche actuellement une **alternance de 2 ans** (rythme 4 semaines entrepris
 🛠️ Outils : Jupyter, GitHub, Canva, Trello, Anaconda
 
 
-🤝 Me contacter
+##🤝 Me contacter
 📩 dina.yahiaouoi@laplateforme.io
 🔗 LinkedIn www.linkedin.com/in/dina-yahiaoui-b8b50115a
 📍 Marseille – mobilité locale
+
+##✨ Objectif 2025
+Trouver une alternance où je pourrais :
+
+Participer à des projets concrets à impact
+
+Déployer des dashboards, des modèles ou des outils IA
+
+Progresser au contact d'une équipe expérimentée et bienveillante
+
+
 
 
 
